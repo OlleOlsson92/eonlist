@@ -793,46 +793,6 @@
       "dateTime" : "02:01",
       "status" : "Active",
       "acknowledged" : "false " 
-    },
-    {
-      "id" : "101",
-      "location" : "Landskrona",
-      "description" : "Sensorlarm",
-      "dateTime" : "02:01",
-      "status" : "Active",
-      "acknowledged" : "false " 
-    },
-    {
-      "id" : "102",
-      "location" : "Göteborg",
-      "description" : "Sensorlarm",
-      "dateTime" : "02:12",
-      "status" : "Active",
-      "acknowledged" : "false " 
-    },
-    {
-      "id" : "103",
-      "location" : "Kalmar",
-      "description" : "Sensorlarm",
-      "dateTime" : "04:12",
-      "status" : "Active",
-      "acknowledged" : "false " 
-    },
-    {
-      "id" : "104",
-      "location" : "Stockholm",
-      "description" : "Sensorlarm",
-      "dateTime" : "03:15",
-      "status" : "Active",
-      "acknowledged" : "false " 
-    },
-    {
-      "id" : "105",
-      "location" : "Lund",
-      "description" : "Sensorlarm",
-      "dateTime" : "00:48",
-      "status" : "Active",
-      "acknowledged" : "false " 
-    },
+    }
   ]
 }
