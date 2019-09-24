@@ -348,5 +348,390 @@
       "description" : "Portlarm",
       "dateTime" : "06:55",
       "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "51",
+      "location" : "Helsingborg",
+      "description" : "Portlarm",
+      "dateTime" : "07:36",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "52",
+      "location" : "Landskrona",
+      "description" : "Portlarm",
+      "dateTime" : "12:45",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "53",
+      "location" : "Göteborg",
+      "description" : "Trycklarm",
+      "dateTime" : "04:44",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "54",
+      "location" : "Kalmar",
+      "description" : "Trycklarm",
+      "dateTime" : "04:46",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "55",
+      "location" : "Stockholm",
+      "description" : "Trycklarm",
+      "dateTime" : "19:56",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "56",
+      "location" : "Lund",
+      "description" : "Fläktlarm",
+      "dateTime" : "21:12",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "57",
+      "location" : "Malmö",
+      "description" : "Fläktlarm",
+      "dateTime" : "08:09",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "58",
+      "location" : "Helsingborg",
+      "description" : "Fläktlarm",
+      "dateTime" : "13:48",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "59",
+      "location" : "Landskrona",
+      "description" : "Fläktlarm",
+      "dateTime" : "15:32",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "60",
+      "location" : "Göteborg",
+      "description" : "Fläktlarm",
+      "dateTime" : "14:10",
+      "status" : "Aktiv, ej kvitterat"
+    },
+    {
+      "id" : "61",
+      "location" : "Kalmar",
+      "description" : "Fläktlarm",
+      "dateTime" : "16:55",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "62",
+      "location" : "Stockholm",
+      "description" : "Fläktlarm",
+      "dateTime" : "05:55",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "63",
+      "location" : "Lund",
+      "description" : "Pumplarm",
+      "dateTime" : "14:22",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "64",
+      "location" : "Malmö",
+      "description" : "Pumplarm",
+      "dateTime" : "05:39",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "65",
+      "location" : "Helsingborg",
+      "description" : "Pumplarm",
+      "dateTime" : "07:55",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "66",
+      "location" : "Landskrona",
+      "description" : "Pumplarm",
+      "dateTime" : "10:24",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "67",
+      "location" : "Göteborg",
+      "description" : "Pumplarm",
+      "dateTime" : "05:01",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "68",
+      "location" : "Kalmar",
+      "description" : "Pumplarm",
+      "dateTime" : "15:16",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "69",
+      "location" : "Stockholm",
+      "description" : "Pumplarm",
+      "dateTime" : "14:44",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "70",
+      "location" : "Lund",
+      "description" : "Värmelarm",
+      "dateTime" : "11:11",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "71",
+      "location" : "Malmö",
+      "description" : "Värmelarm",
+      "dateTime" : "09:18",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "72",
+      "location" : "Helsingborg",
+      "description" : "Värmelarm",
+      "dateTime" : "16:22",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "73",
+      "location" : "Landskrona",
+      "description" : "Värmelarm",
+      "dateTime" : "13:13",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "74",
+      "location" : "Göteborg",
+      "description" : "Värmelarm",
+      "dateTime" : "16:16",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "75",
+      "location" : "Kalmar",
+      "description" : "Värmelarm",
+      "dateTime" : "19:00",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "76",
+      "location" : "Stockholm",
+      "description" : "Värmelarm",
+      "dateTime" : "14:20",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "77",
+      "location" : "Lund",
+      "description" : "Nödstopp",
+      "dateTime" : "20:15",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "78",
+      "location" : "Malmö",
+      "description" : "Produktionslarm",
+      "dateTime" : "02:33",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "79",
+      "location" : "Helsingborg",
+      "description" : "Ventilfel",
+      "dateTime" : "06:56",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "80",
+      "location" : "Landskrona",
+      "description" : "Ventilfel",
+      "dateTime" : "11:25",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "81",
+      "location" : "Göteborg",
+      "description" : "Ventilfel",
+      "dateTime" : "15:14",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "82",
+      "location" : "Kalmar",
+      "description" : "Ventilfel",
+      "dateTime" : "16:19",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "83",
+      "location" : "Stockholm",
+      "description" : "Ventilfel",
+      "dateTime" : "18:28",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "84",
+      "location" : "Lund",
+      "description" : "Ventilfel",
+      "dateTime" : "21:48",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "85",
+      "location" : "Malmö",
+      "description" : "Ventilfel",
+      "dateTime" : "14:33",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "86",
+      "location" : "Helsingborg",
+      "description" : "Hydrauliklarm",
+      "dateTime" : "15:11",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "87",
+      "location" : "Landskrona",
+      "description" : "Hydrauliklarm",
+      "dateTime" : "13:32",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "88",
+      "location" : "Göteborg",
+      "description" : "Hydrauliklarm",
+      "dateTime" : "05:46",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "89",
+      "location" : "Kalmar",
+      "description" : "Hydrauliklarm",
+      "dateTime" : "20:03",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "90",
+      "location" : "Stockholm",
+      "description" : "Hydrauliklarm",
+      "dateTime" : "18:37",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "91",
+      "location" : "Lund",
+      "description" : "Hydrauliklarm",
+      "dateTime" : "13:38",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "92",
+      "location" : "Malmö",
+      "description" : "Hydrauliklarm",
+      "dateTime" : "10:19",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "93",
+      "location" : "Helsingborg",
+      "description" : "Ugnsfel",
+      "dateTime" : "10:16",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "94",
+      "location" : "Landskrona",
+      "description" : "Ugnsfel",
+      "dateTime" : "19:32",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "95",
+      "location" : "Göteborg",
+      "description" : "Ugnsfel",
+      "dateTime" : "15:39",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "96",
+      "location" : "Kalmar",
+      "description" : "Ugnsfel",
+      "dateTime" : "11:32",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "97",
+      "location" : "Stockholm",
+      "description" : "Ugnsfel",
+      "dateTime" : "21:12",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "98",
+      "location" : "Lund",
+      "description" : "Ugnsfel",
+      "dateTime" : "11:45",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "99",
+      "location" : "Malmö",
+      "description" : "Sensorlarm",
+      "dateTime" : "02:01",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "100",
+      "location" : "Helsingborg",
+      "description" : "Sensorlarm",
+      "dateTime" : "02:01",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "101",
+      "location" : "Landskrona",
+      "description" : "Sensorlarm",
+      "dateTime" : "02:01",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "102",
+      "location" : "Göteborg",
+      "description" : "Sensorlarm",
+      "dateTime" : "02:12",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "103",
+      "location" : "Kalmar",
+      "description" : "Sensorlarm",
+      "dateTime" : "04:12",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "104",
+      "location" : "Stockholm",
+      "description" : "Sensorlarm",
+      "dateTime" : "03:15",
+      "status" : "Aktiv, ej kvitterat" 
+    },
+    {
+      "id" : "105",
+      "location" : "Lund",
+      "description" : "Sensorlarm",
+      "dateTime" : "00:48",
+      "status" : "Aktiv, ej kvitterat" 
     }
 ]
