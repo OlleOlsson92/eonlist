@@ -271,47 +271,5 @@
       "description" : "Spislarm",
       "dateTime" : "06:26",
       "status" : "Aktiv, ej kvitterat" 
-    },
-    {
-      "id" : "40",
-      "location" : "Kalmar",
-      "description" : "Trycklarm",
-      "dateTime" : "11:05",
-      "status" : "Aktiv, ej kvitterat" 
-    },
-    {
-      "id" : "41",
-      "location" : "Stockholm",
-      "description" : "Trycklarm",
-      "dateTime" : "12:32",
-      "status" : "Aktiv, ej kvitterat" 
-    },
-    {
-      "id" : "42",
-      "location" : "Lund",
-      "description" : "Pumplarm",
-      "dateTime" : "14:11",
-      "status" : "Aktiv, ej kvitterat" 
-    },
-    {
-      "id" : "43",
-      "location" : "Malmö",
-      "description" : "Pumplarm",
-      "dateTime" : "18:22",
-      "status" : "Aktiv, ej kvitterat" 
-    },
-    {
-      "id" : "44",
-      "location" : "Helsingborg",
-      "description" : "Pumplarm",
-      "dateTime" : "16:49",
-      "status" : "Aktiv, ej kvitterat"
-    },
-    {
-      "id" : "45",
-      "location" : "Landskrona",
-      "description" : "Pumplarm",
-      "dateTime" : "11:45",
-      "status" : "Aktiv, ej kvitterat"
     }
 ]
