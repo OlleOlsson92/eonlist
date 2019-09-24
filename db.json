@@ -1,5 +1,4 @@
-{
-  "alarms":[
+[
     {
       "id" : "1",
       "location" : "Malmö",
@@ -405,5 +404,4 @@
       "status" : "Active",
       "acknowledged" : "false " 
     }
-  ]
-}
+]
