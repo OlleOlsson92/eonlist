@@ -313,26 +313,5 @@
       "description" : "Pumplarm",
       "dateTime" : "11:45",
       "status" : "Aktiv, ej kvitterat"
-    },
-    {
-      "id" : "46",
-      "location" : "Göteborg",
-      "description" : "Gaslarm",
-      "dateTime" : "03:33",
-      "status" : "Aktiv, ej kvitterat" 
-    },
-    {
-      "id" : "47",
-      "location" : "Kalmar",
-      "description" : "Nödstopp",
-      "dateTime" : "09:09",
-      "status" : "Aktiv, ej kvitterat" 
-    },
-    {
-      "id" : "48",
-      "location" : "Stockholm",
-      "description" : "Portlarm",
-      "dateTime" : "17:17",
-      "status" : "Aktiv, ej kvitterat" 
     }
 ]
